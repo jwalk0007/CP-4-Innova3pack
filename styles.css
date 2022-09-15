@@ -159,32 +159,6 @@ button {
   color: blue;
 }
 
- @media only screen and (max-width: 1000px) {
-  header {
-    height: 11rem;
-  }
-  main{
-    margin-top: 11rem;
-  }
-  #nav-bar {
-    font-size: 2rem;
-  }
-  img {
-    height: 135px;
-  }
-  h1 {
-    font-size: 3rem;
-  } 
-  .discs {
-    font-size: 2rem;
-  }
-  .discs2 {
-    font-size: 1rem;
-  } 
-  #disc-Driver, #disc-Mid-Range, #disc-Putter {
-    scroll-margin-top: 6em;
-  }
-}
 
 @media screen and (max-width: 600px) {
   header {
