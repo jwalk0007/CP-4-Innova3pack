@@ -80,7 +80,7 @@ h1 {
     width: 100%;
     padding-bottom: 56.25%;
     height: 0;
-    z-index:;
+    z-index:0;
   }
   
   .video iframe {
@@ -104,7 +104,7 @@ h1 {
 
 .info {
   margin: 2rem;
-  font-size: .8rem;
+  font-size: 1.2zrem;
   margin-bottom: 8%;
   margin-top: -1%;
 }
