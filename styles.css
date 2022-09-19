@@ -192,7 +192,42 @@ h1 {
   }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 500px) {
+  header {
+    height: 4rem;
+  }
+  .nav-link {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 50%;
+}
+  main {
+    margin-top: 5rem;
+  }
+  img {
+    height: 50px;
+  }
+    ul {
+      flex-direction: column;
+    }
+  h1 {
+    font-size: 2rem;
+    -webkit-text-stroke: 1px black;
+
+  }  
+  .discs {
+    font-size: 2rem;
+  }
+  .discs2 {
+    font-size: 1rem;
+  }
+  #disc-Driver, #disc-Mid-Range, #disc-Putter {
+    scroll-margin-top: 5em;
+  }
+}
+
+@media screen and (max-height: 500px) {
   header {
     height: 4rem;
   }
