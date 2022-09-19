@@ -158,7 +158,7 @@ button {
   color: blue;
 }
 
- @media only screen and (max-width: 1000px) {
+ @media only screen and (max-width: 960px) {
   header {
     height: 6rem;
   }
@@ -192,7 +192,7 @@ h1 {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
   header {
     height: 4rem;
   }
