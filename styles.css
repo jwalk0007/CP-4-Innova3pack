@@ -189,7 +189,7 @@ h1 {
   #disc-Driver, #disc-Mid-Range, #disc-Putter {
     scroll-margin-top: 6em;
   }
-  
+}
 
 @media screen and (max-width: 600px) {
   header {
@@ -223,3 +223,4 @@ h1 {
   #disc-Driver, #disc-Mid-Range, #disc-Putter {
     scroll-margin-top: 5em;
   }
+}
