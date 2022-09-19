@@ -162,6 +162,10 @@ button {
   header {
     height: 11rem;
   }
+  .nav-link {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic;
+}
   main{
     margin-top: 11rem;
   }
@@ -183,12 +187,16 @@ button {
   #disc-Driver, #disc-Mid-Range, #disc-Putter {
     scroll-margin-top: 6em;
   }
-}
+  
 
 @media screen and (max-width: 600px) {
   header {
     height: 10rem;
   }
+  .nav-link {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic;
+}
   main {
     margin-top: 10rem;
   }
@@ -210,4 +218,3 @@ button {
   #disc-Driver, #disc-Mid-Range, #disc-Putter {
     scroll-margin-top: 5em;
   }
-}
