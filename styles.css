@@ -227,7 +227,7 @@ h1 {
   }
 }
 
-@media screen and (max-height: 500px) {
+@media screen and (max-height: 200px) {
   header {
     height: 4rem;
   }
