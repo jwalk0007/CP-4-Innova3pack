@@ -160,21 +160,22 @@ button {
 
  @media only screen and (max-width: 1000px) {
   header {
-    height: 11rem;
+    height: 6rem;
   }
   .nav-link {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-style: italic;
   font-weight: bold; 
+  font-size: 80%;
 }
 main{
-  margin-top: 11rem;
+  margin-top: 7rem;
 }
 #nav-bar {
   font-size: 2rem;
 }
 img {
-  height: 135px;
+  height: 85px;
 }
 h1 {
   font-size: 3rem;
@@ -193,18 +194,19 @@ h1 {
 
 @media screen and (max-width: 600px) {
   header {
-    height: 10rem;
+    height: 4rem;
   }
   .nav-link {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-style: italic;
   font-weight: bold;
+  font-size: 50%;
 }
   main {
-    margin-top: 10rem;
+    margin-top: 5rem;
   }
   img {
-    height: 90p
+    height: 50px;
   }
     ul {
       flex-direction: column;
