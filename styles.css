@@ -243,9 +243,7 @@ h1 {
   img {
     height: 50px;
   }
-    ul {
-      flex-direction: column;
-    }
+
   h1 {
     font-size: 2rem;
     -webkit-text-stroke: 1px black;
