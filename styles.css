@@ -236,7 +236,7 @@ h1 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-style: italic;
   font-weight: bold;
-  font-size: 30%;
+  font-size: .3em;
 }
   main {
     margin-top: 5rem;
@@ -245,7 +245,7 @@ h1 {
     height: 25px;
   }
   h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     -webkit-text-stroke: 1px black;
   }  
   .discs {
