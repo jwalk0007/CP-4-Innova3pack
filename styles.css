@@ -231,7 +231,7 @@ h1 {
 
 @media screen and (max-height: 50px) {
   header {
-    height: 3em;
+    height: 2.5em;
   }
   .nav-link {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -240,7 +240,7 @@ h1 {
   font-size: 1.2em;
 }
   main {
-    margin-top: 3em;
+    margin-top: 2.5em;
   }
   img {
     height: 40px;
