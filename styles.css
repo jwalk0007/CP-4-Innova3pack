@@ -229,7 +229,7 @@ h1 {
   }
 }
 
-@media screen and (max-height: 100px) {
+@media screen and (max-height: 500px) {
   header {
     height: 3em;
   }
