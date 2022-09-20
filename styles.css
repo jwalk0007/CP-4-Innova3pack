@@ -158,9 +158,9 @@ button {
   color: blue;
 }
 
- @media only screen and (max-width: 1000px) {
+ @media only screen and (max-width: 800px) {
   header {
-    height: 8em;
+    height: 6em;
     padding-right: 10em;
   }
 .nav-link {
@@ -171,7 +171,7 @@ button {
   -webkit-text-stroke: .5px black;
 }
 main{
-  margin-top: 8em;
+  margin-top: 7em;
 }
 #nav-bar {
   font-size: 1.5em;
