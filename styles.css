@@ -160,7 +160,7 @@ button {
 
  @media only screen and (max-width: 800px) {
   header {
-    height: 6em;
+    height: 7em;
     padding-right: 10em;
   }
 .nav-link {
@@ -168,10 +168,10 @@ button {
   font-style: italic;
   font-weight: bold; 
   font-size: 1em;
-  -webkit-text-stroke: .5px black;
+  -webkit-text-stroke: .2px black;
 }
 main{
-  margin-top: 7em;
+  margin-top: 7.5em;
 }
 #nav-bar {
   font-size: 1.5em;
