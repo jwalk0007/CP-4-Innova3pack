@@ -41,6 +41,7 @@ ul {
 
 .nav-link {
   color: rgb(227, 220, 233);
+  -webkit-text-stroke: 1px black;
 }
 
 .nav-link:hover {
@@ -250,13 +251,13 @@ h1 {
   .discs {
     font-size: 2em;
   }
+  #disc-Driver, #disc-Mid-Range, #disc-Putter {
+    scroll-margin-top: 1em;
+}
   .discs2 {
     font-size: 1em;
   }
   .info {
     font-size: .4em
-  }
-  #disc-Driver, #disc-Mid-Range, #disc-Putter {
-    scroll-margin-top: 1em;
   }
 }
