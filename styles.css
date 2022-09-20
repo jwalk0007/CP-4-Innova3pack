@@ -242,7 +242,7 @@ h1 {
     margin-top: 3em;
   }
   img {
-    height: 25px;
+    height: 15px;
   }
   h1 {
     font-size: 1.5em;
@@ -253,7 +253,10 @@ h1 {
   .discs2 {
     font-size: 1em;
   }
+  .info {
+    font-size: .5em
+  }
   #disc-Driver, #disc-Mid-Range, #disc-Putter {
-    scroll-margin-top: 3em;
+    scroll-margin-top: 2em;
   }
 }
