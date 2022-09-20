@@ -252,12 +252,12 @@ h1 {
     font-size: 2em;
   }
   #disc-Driver, #disc-Mid-Range, #disc-Putter {
-    scroll-margin-top: 2em;
+    scroll-margin-top: 1.8em;
 }
   .discs2 {
     font-size: 1em;
   }
   .info {
-    font-size: .4em
+    font-size: .5em
   }
 }
