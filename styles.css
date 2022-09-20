@@ -173,10 +173,10 @@ main{
   margin-top: 7em;
 }
 #nav-bar {
-  font-size: 2.5em;
+  font-size: 1.5em;
 }
 img {
-  height: 85px;
+  height: 65px;
 }
 h1 {
   font-size: 3em;
@@ -208,7 +208,7 @@ h1 {
     margin-top: 5em;
   }
   img {
-    height: 60px;
+    height: 50px;
   }
     ul {
       flex-direction: column;
