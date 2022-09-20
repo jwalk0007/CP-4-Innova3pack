@@ -229,7 +229,7 @@ h1 {
   }
 }
 
-@media screen and (max-height: 500px) {
+@media screen and (max-height: 200px) {
   header {
     height: 3em;
   }
@@ -237,7 +237,7 @@ h1 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-style: italic;
   font-weight: bold;
-  font-size: .3em;
+  font-size: 1em;
 }
   main {
     margin-top: 3em;
