@@ -192,7 +192,7 @@ h1 {
 
 @media screen and (max-width: 576px) {
 
-  header {
+header {
   height: 5em;
 }
 .nav-link {
@@ -225,7 +225,7 @@ h1 {
 
 @media screen and (max-width: 376px) {
 
-  header {
+header {
   height: 5em;
 }
 .nav-link {
