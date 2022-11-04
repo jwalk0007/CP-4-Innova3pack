@@ -157,7 +157,7 @@ header {
 .nav-link {
   font-size: 1.5em;
   font-weight: bold;
-  margin: 0 2em;
+  margin: 0 1em;
   -webkit-text-stroke: .1px black;
 }
 main {
@@ -194,7 +194,7 @@ header {
 }
 .nav-link {
   font-size: 1em;
-  margin: 0 .5em;
+  margin: 0 .2em;
   -webkit-text-stroke: .1px black;
 }
 .driver {
